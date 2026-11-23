@@ -2,7 +2,11 @@
 
 from .dataset import Dataset, ShardError, MAX_SHARDS, MAX_VALUE, MIN_VALUE
 from .ledger import Ledger, LedgerError, build_ledger
+from .residency import (ResidencyError, residency_report, VERDICT_ELIGIBLE,
+                        VERDICT_INELIGIBLE, VERDICT_INSUFFICIENT)
 from .shardfile import load_shard
 
 __all__ = ["Dataset", "ShardError", "MAX_SHARDS", "MAX_VALUE", "MIN_VALUE",
-           "load_shard", "Ledger", "LedgerError", "build_ledger"]
+           "load_shard", "Ledger", "LedgerError", "build_ledger",
+           "ResidencyError", "residency_report", "VERDICT_ELIGIBLE",
+           "VERDICT_INELIGIBLE", "VERDICT_INSUFFICIENT"]
