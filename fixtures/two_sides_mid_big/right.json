@@ -1,0 +1,7 @@
+{
+  "sender": "right",
+  "rows": [
+    {"record": 1, "value": 5, "weight": 4},
+    {"record": 2, "value": 10, "weight": 6}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "sender": "aaa_first",
+  "rows": [
+    {"record": 1, "value": 1, "weight": 5},
+    {"record": 2, "value": 3, "weight": 4}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "sender": "south",
+  "rows": [
+    {"record": 7, "value": -5, "weight": 1},
+    {"record": 9, "value": 4, "weight": 2},
+    {"record": 8, "value": null, "weight": 2}
+  ]
+}

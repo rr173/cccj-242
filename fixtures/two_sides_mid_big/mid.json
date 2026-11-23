@@ -1,0 +1,7 @@
+{
+  "sender": "mid",
+  "rows": [
+    {"record": 1, "value": 10, "weight": "9223372036854775815"},
+    {"record": 2, "value": 20, "weight": 1}
+  ]
+}

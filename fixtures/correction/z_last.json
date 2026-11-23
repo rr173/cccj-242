@@ -1,0 +1,7 @@
+{
+  "sender": "z_last",
+  "rows": [
+    {"record": 1, "value": 6, "weight": 1},
+    {"record": 2, "value": 9, "weight": 2}
+  ]
+}
